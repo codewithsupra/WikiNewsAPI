@@ -3,7 +3,7 @@ It is a REST API that is built for users to fetch news data and perform http ope
 
 **To run it:-**
 
-1.CLone the repository
+1.Clone the repository
 
 2.Run  `npm install` in Command Line Interface
 
